@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Front-End Designer with over 6 years of experience in the development of digital solutions. I specialize in creating scalable components and problem-solving.
+I am a Front-End Designer with over 8 years of experience in the development of digital solutions. I specialize in creating scalable components and problem-solving.
 
 
 ## 🌐 Socials:
