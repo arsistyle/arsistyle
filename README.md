@@ -5,7 +5,7 @@ I am a **Senior Front-End Designer** specializing in the creation of ultra-fast 
 ---
 
 ### 🤖 AI-First Development
-I leverage advanced LLMs (Claude Team) to accelerate development cycles and ensure code excellence. My approach is **AI-assisted and human-refined**, allowing for rapid iteration without compromising architectural integrity.
+I leverage advanced LLMs (Claude) to accelerate development cycles and ensure code excellence. My approach is **AI-assisted and human-refined**, allowing for rapid iteration without compromising architectural integrity.
 
 ### 🎯 Specialization: The Astro Ecosystem
 I engineer high-conversion web assets using **Astro** for its zero-JS-by-default philosophy. Combined with **Tailwind CSS** and **Shadcn/UI**, I build interfaces that are not just fast, but optimized for how modern AI search engines index content.
